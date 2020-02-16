@@ -20,7 +20,7 @@ public class Describir<T> {
     Describir() {
     }
  
-  public T mostrarBoard(){
+  public T describirPlaca(){
     return obj;
 }
 }
