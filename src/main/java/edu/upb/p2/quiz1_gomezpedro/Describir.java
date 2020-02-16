@@ -16,6 +16,9 @@ public class Describir<T> {
   public Describir(T o) {
     this.obj = o;
   }
+
+    Describir() {
+    }
  
   public T mostrarBoard(){
     return obj;

@@ -11,6 +11,7 @@ package edu.upb.p2.quiz1_gomezpedro;
  */
 public class Main {
         public static void main(String[] args) {
+            Describir m = new Describir();
                //System.out.println("Hello World!");
     }
 }
